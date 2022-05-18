@@ -824,7 +824,7 @@ do
 end
 ------------------------------------------------------------------------------------------------------------------------------------------
 -- // Main
-local window = library:Window({name = "<font color=\"#AA55EB\">elixer.sol</font> | Jul 7 2021"})
+local window = library:Window({name = "<font color=\"#AA55EB\">obelus.pub</font> | UI Library"})
 --
 local aimbot = window:Page({Name = "aimbot"})
 local antiaim = window:Page({Name = "antiaim"})
@@ -833,8 +833,8 @@ local misc = window:Page({Name = "misc"})
 local config = window:Page({Name = "config"})
 local skins = window:Page({Name = "skins"})
 --
-local aimbot_section = aimbot:Section({Name = "players", size = 300})
-local aimbot_section2 = aimbot:Section({Name = "colored models", Side = "Right"})
+local aimbot_section = aimbot:Section({Name = "players", size = 350})
+local aimbot_section2 = aimbot:Section({Name = "colored models", Side = "Right", size = 350})
 --
 local label = aimbot_section:Label({Name = "label hello random"})
 local label2 = aimbot_section:Label({Name = "with none", Offset = 16})
