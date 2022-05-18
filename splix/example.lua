@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/insanedude59/SplixUiLib/main/Main"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/soapware/UI/main/splix/main.lua"))()
 
 local window = library:new({textsize = 13.5,font = Enum.Font.RobotoMono,name = "Pasted Big Hot and Sexy Da Hood Aimlock #2387492734 Premium",color = Color3.fromRGB(225,58,81)})
 
