@@ -4,7 +4,7 @@ local Config = {
 	Keybind = Enum.KeyCode.RightBracket
 }
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexR32/Roblox/main/BracketV3.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/soapware/UI/main/bracket%20v3/main.lua"))()
 local Window = Library:CreateWindow(Config, game:GetService("CoreGui"))
 
 local Tab1 = Window:CreateTab("Example")
