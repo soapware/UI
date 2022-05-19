@@ -1,3 +1,3 @@
 # Linoria Lib
 
-![UI](https://i.imgur.com/qs0Hqc6.png)
+![](https://raw.githubusercontent.com/soapware/UI/main/Linoria/linoria.png)
