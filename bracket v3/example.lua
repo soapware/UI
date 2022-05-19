@@ -1,6 +1,6 @@
 local Config = {
-    WindowName = "Example Library",
-	Color = Color3.fromRGB(255,128,64),
+    WindowName = "Bracket v3",
+	Color = Color3.fromRGB(83,158,190),
 	Keybind = Enum.KeyCode.RightBracket
 }
 
